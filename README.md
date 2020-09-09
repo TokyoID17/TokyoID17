@@ -1,6 +1,10 @@
-<img src="https://cdn.discordapp.com/avatars/694411710974525551/a_50ba131c9614dffdada1dc1dd6153eba.gif?size=4096" alt="Avatar" style="border-radius: 75%;">
-
-Hello, My real name is **TokyoID**
+<p align="center">
+  <a>
+   <img src="https://media.discordapp.net/attachments/746038948656316489/753306195938509093/TokyoID17.gif" alt="Avatar" style="border-radius: 75%;">
+  </a>
+ </p>
+ 
+<p align="center">
 <br/>🏠 I live in **Indonesia**
 <br/>👤 Discord: **TokyoID#1337**
 <br/>📂 If you have trouble with the repo, please dm my discord
@@ -17,3 +21,4 @@ Hello, My real name is **TokyoID**
 </a>
 <br>
 <br>
+</p>
