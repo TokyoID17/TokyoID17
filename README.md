@@ -4,7 +4,6 @@
   </a>
  </p>
  
-<p align="center">
 <br/>🏠 I live in **Indonesia**
 <br/>👤 Discord: **TokyoID#1337**
 <br/>📂 If you have trouble with the repo, please dm my discord
@@ -21,4 +20,3 @@
 </a>
 <br>
 <br>
-</p>
